@@ -1,0 +1,975 @@
+[
+  {
+    "name": "name",
+    "url": "url",
+    "salary_currency": "RUR",
+    "salary_from": 10000,
+    "salary_to": null
+  },
+  {
+    "name": "name",
+    "url": "url",
+    "salary_currency": "RUR",
+    "salary_from": 20000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://hh.ru/vacancy/103031959",
+    "salary_currency": "USD",
+    "salary_from": null,
+    "salary_to": 400
+  },
+  {
+    "name": "Аналитик Данных",
+    "url": "https://hh.ru/vacancy/103749041",
+    "salary_currency": "KZT",
+    "salary_from": 400000,
+    "salary_to": 800000
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/102469377",
+    "salary_currency": "RUR",
+    "salary_from": 800000,
+    "salary_to": 1000000
+  },
+  {
+    "name": "Fullstack программист",
+    "url": "https://hh.ru/vacancy/103772781",
+    "salary_currency": "USD",
+    "salary_from": 1000,
+    "salary_to": 2000
+  },
+  {
+    "name": "Программист (Junior - младший разработчик)",
+    "url": "https://hh.ru/vacancy/103797621",
+    "salary_currency": "RUR",
+    "salary_from": 30000,
+    "salary_to": 60000
+  },
+  {
+    "name": "Стажер-разработчик Python",
+    "url": "https://hh.ru/vacancy/102404974",
+    "salary_currency": "RUR",
+    "salary_from": 100000,
+    "salary_to": null
+  },
+  {
+    "name": "Junior Frontend разработчик",
+    "url": "https://hh.ru/vacancy/103677273",
+    "salary_currency": "RUR",
+    "salary_from": 40000,
+    "salary_to": 60000
+  },
+  {
+    "name": "CTO (релокация в наукоград Дубна, МО)",
+    "url": "https://hh.ru/vacancy/103527425",
+    "salary_currency": "RUR",
+    "salary_from": 500000,
+    "salary_to": null
+  },
+  {
+    "name": "C++ developer to Berlin",
+    "url": "https://hh.ru/vacancy/102781611",
+    "salary_currency": "EUR",
+    "salary_from": 7500,
+    "salary_to": 10834
+  },
+  {
+    "name": "Программист-стажер в инвестиционный фонд",
+    "url": "https://hh.ru/vacancy/102978103",
+    "salary_currency": "RUR",
+    "salary_from": 50000,
+    "salary_to": null
+  },
+  {
+    "name": "Python разработчик (чат-боты)",
+    "url": "https://hh.ru/vacancy/102678009",
+    "salary_currency": "RUR",
+    "salary_from": 35000,
+    "salary_to": 50000
+  },
+  {
+    "name": "Junior Python",
+    "url": "https://hh.ru/vacancy/103562232",
+    "salary_currency": "USD",
+    "salary_from": 700,
+    "salary_to": null
+  },
+  {
+    "name": "CIO/IT директор (LegalTech)",
+    "url": "https://hh.ru/vacancy/103588396",
+    "salary_currency": "RUR",
+    "salary_from": 500000,
+    "salary_to": 800000
+  },
+  {
+    "name": "Тестировщик (ручное тестирование)",
+    "url": "https://hh.ru/vacancy/103794585",
+    "salary_currency": "RUR",
+    "salary_from": 150000,
+    "salary_to": 200000
+  },
+  {
+    "name": "Стажер Back-end разработчика (php, python, c#)",
+    "url": "https://hh.ru/vacancy/102686556",
+    "salary_currency": "RUR",
+    "salary_from": 15000,
+    "salary_to": 30000
+  },
+  {
+    "name": "Backend разработчик",
+    "url": "https://hh.ru/vacancy/103293978",
+    "salary_currency": "RUR",
+    "salary_from": 140000,
+    "salary_to": 180000
+  },
+  {
+    "name": "Python Developer (Backend & Qt)",
+    "url": "https://hh.ru/vacancy/103602017",
+    "salary_currency": "RUR",
+    "salary_from": 90000,
+    "salary_to": 130000
+  },
+  {
+    "name": "Junior data analyst",
+    "url": "https://hh.ru/vacancy/103773913",
+    "salary_currency": "KZT",
+    "salary_from": null,
+    "salary_to": 310000
+  },
+  {
+    "name": "Бизнес-аналитик",
+    "url": "https://hh.ru/vacancy/103698608",
+    "salary_currency": "RUR",
+    "salary_from": 169000,
+    "salary_to": null
+  },
+  {
+    "name": "Junoir Python developer",
+    "url": "https://hh.ru/vacancy/102612686",
+    "salary_currency": "RUR",
+    "salary_from": null,
+    "salary_to": 60000
+  },
+  {
+    "name": "Консультант отдела бизнес-анализа",
+    "url": "https://hh.ru/vacancy/103701598",
+    "salary_currency": "RUR",
+    "salary_from": 260000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист-разработчик",
+    "url": "https://hh.ru/vacancy/103703806",
+    "salary_currency": "RUR",
+    "salary_from": 25000,
+    "salary_to": 50000
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://hh.ru/vacancy/103555569",
+    "salary_currency": "RUR",
+    "salary_from": null,
+    "salary_to": 550000
+  },
+  {
+    "name": "Стажер-разработчик",
+    "url": "https://hh.ru/vacancy/103058314",
+    "salary_currency": "RUR",
+    "salary_from": 46000,
+    "salary_to": null
+  },
+  {
+    "name": "Junior Python Django developer",
+    "url": "https://hh.ru/vacancy/101871676",
+    "salary_currency": "RUR",
+    "salary_from": null,
+    "salary_to": 120000
+  },
+  {
+    "name": "Python Engineer",
+    "url": "https://hh.ru/vacancy/103768469",
+    "salary_currency": "KZT",
+    "salary_from": 200000,
+    "salary_to": 700000
+  },
+  {
+    "name": "Аналитик Python",
+    "url": "https://hh.ru/vacancy/101282288",
+    "salary_currency": "RUR",
+    "salary_from": 120000,
+    "salary_to": 150000
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/103641114",
+    "salary_currency": "RUR",
+    "salary_from": 50000,
+    "salary_to": 150000
+  },
+  {
+    "name": "Стажер-разработчик",
+    "url": "https://hh.ru/vacancy/102735918",
+    "salary_currency": "KZT",
+    "salary_from": 100000,
+    "salary_to": 150000
+  },
+  {
+    "name": "Intern Python Developer / Стажер Python-разработчик",
+    "url": "https://hh.ru/vacancy/103317574",
+    "salary_currency": "RUR",
+    "salary_from": 150000,
+    "salary_to": null
+  },
+  {
+    "name": "QA Engineer (Python)",
+    "url": "https://hh.ru/vacancy/102778649",
+    "salary_currency": "USD",
+    "salary_from": 2000,
+    "salary_to": null
+  },
+  {
+    "name": "Middle Python backend разработчик",
+    "url": "https://hh.ru/vacancy/103297882",
+    "salary_currency": "RUR",
+    "salary_from": 130000,
+    "salary_to": 150000
+  },
+  {
+    "name": "Backend-разработчик Python",
+    "url": "https://hh.ru/vacancy/103730782",
+    "salary_currency": "RUR",
+    "salary_from": 170000,
+    "salary_to": null
+  },
+  {
+    "name": "Младший backend-разработчик",
+    "url": "https://hh.ru/vacancy/103215751",
+    "salary_currency": "RUR",
+    "salary_from": 45000,
+    "salary_to": 120000
+  },
+  {
+    "name": "Junior / QA Engineer",
+    "url": "https://hh.ru/vacancy/103601403",
+    "salary_currency": "RUR",
+    "salary_from": null,
+    "salary_to": 100000
+  },
+  {
+    "name": "Стажер-программист Python",
+    "url": "https://hh.ru/vacancy/102778286",
+    "salary_currency": "RUR",
+    "salary_from": 30000,
+    "salary_to": 50000
+  },
+  {
+    "name": "Программист-разработчик",
+    "url": "https://hh.ru/vacancy/103126422",
+    "salary_currency": "RUR",
+    "salary_from": 60000,
+    "salary_to": 120000
+  },
+  {
+    "name": "Дата-аналитик/Алгоритмист",
+    "url": "https://hh.ru/vacancy/102647630",
+    "salary_currency": "KZT",
+    "salary_from": 750000,
+    "salary_to": null
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/103708190",
+    "salary_currency": "USD",
+    "salary_from": 1500,
+    "salary_to": 3000
+  },
+  {
+    "name": "Тестировщик",
+    "url": "https://hh.ru/vacancy/103690005",
+    "salary_currency": "RUR",
+    "salary_from": null,
+    "salary_to": 350000
+  },
+  {
+    "name": "Middle Python Developer",
+    "url": "https://hh.ru/vacancy/103726595",
+    "salary_currency": "RUR",
+    "salary_from": 80000,
+    "salary_to": 120000
+  },
+  {
+    "name": "Программист (разработка чат-ботов)",
+    "url": "https://hh.ru/vacancy/103608046",
+    "salary_currency": "RUR",
+    "salary_from": 183000,
+    "salary_to": null
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/103712003",
+    "salary_currency": "RUR",
+    "salary_from": 75000,
+    "salary_to": 100000
+  },
+  {
+    "name": "Младший аналитик-стажер / ВТБ РОСТ",
+    "url": "https://hh.ru/vacancy/103036433",
+    "salary_currency": "RUR",
+    "salary_from": 100000,
+    "salary_to": 100000
+  },
+  {
+    "name": "Junior QA-Engineer",
+    "url": "https://hh.ru/vacancy/103716883",
+    "salary_currency": "RUR",
+    "salary_from": null,
+    "salary_to": 70000
+  },
+  {
+    "name": "Тестировщик ПО",
+    "url": "https://hh.ru/vacancy/102939106",
+    "salary_currency": "RUR",
+    "salary_from": 40000,
+    "salary_to": 100000
+  },
+  {
+    "name": "Программист-разработчик по нейросетям, обработка данных, сбор датасета",
+    "url": "https://hh.ru/vacancy/103700665",
+    "salary_currency": "RUR",
+    "salary_from": 45000,
+    "salary_to": 60000
+  },
+  {
+    "name": "Middle frontend разработчик (Vue.js)",
+    "url": "https://hh.ru/vacancy/103251394",
+    "salary_currency": "RUR",
+    "salary_from": null,
+    "salary_to": 200000
+  },
+  {
+    "name": "Младший разработчик (Junior)",
+    "url": "https://hh.ru/vacancy/102901125",
+    "salary_currency": "RUR",
+    "salary_from": 40000,
+    "salary_to": null
+  },
+  {
+    "name": "Junior+ Python разработчик",
+    "url": "https://hh.ru/vacancy/102483362",
+    "salary_currency": "RUR",
+    "salary_from": 70000,
+    "salary_to": 100000
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://hh.ru/vacancy/103007146",
+    "salary_currency": "RUR",
+    "salary_from": null,
+    "salary_to": 342000
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/103415524",
+    "salary_currency": "RUR",
+    "salary_from": 150000,
+    "salary_to": 250000
+  },
+  {
+    "name": "Бэкенд разработчик (Python/Django), программист, TON",
+    "url": "https://hh.ru/vacancy/102551587",
+    "salary_currency": "RUR",
+    "salary_from": 200000,
+    "salary_to": 400000
+  },
+  {
+    "name": "Python developer",
+    "url": "https://hh.ru/vacancy/103696322",
+    "salary_currency": "RUR",
+    "salary_from": null,
+    "salary_to": 170000
+  },
+  {
+    "name": "Руководитель отдела аналитики",
+    "url": "https://hh.ru/vacancy/103747408",
+    "salary_currency": "RUR",
+    "salary_from": 300000,
+    "salary_to": null
+  },
+  {
+    "name": "Middle Python Developer",
+    "url": "https://hh.ru/vacancy/102136724",
+    "salary_currency": "RUR",
+    "salary_from": 200000,
+    "salary_to": null
+  },
+  {
+    "name": "Стажер-программист Java",
+    "url": "https://hh.ru/vacancy/103768970",
+    "salary_currency": "RUR",
+    "salary_from": 30000,
+    "salary_to": 30000
+  },
+  {
+    "name": "Junior Game Designer (Balance)",
+    "url": "https://hh.ru/vacancy/99086642",
+    "salary_currency": "RUR",
+    "salary_from": 60000,
+    "salary_to": 80000
+  },
+  {
+    "name": "ИТ-стажёр",
+    "url": "https://hh.ru/vacancy/103599593",
+    "salary_currency": "RUR",
+    "salary_from": 35000,
+    "salary_to": null
+  },
+  {
+    "name": "Supply Chain Manager / Менеджер отдела логистики",
+    "url": "https://hh.ru/vacancy/97453669",
+    "salary_currency": "RUR",
+    "salary_from": 155000,
+    "salary_to": null
+  },
+  {
+    "name": "Разработчик Python (Middle)",
+    "url": "https://hh.ru/vacancy/103794687",
+    "salary_currency": "RUR",
+    "salary_from": 90000,
+    "salary_to": 150000
+  },
+  {
+    "name": "Junior Product Analyst",
+    "url": "https://hh.ru/vacancy/103140775",
+    "salary_currency": "RUR",
+    "salary_from": 120000,
+    "salary_to": null
+  },
+  {
+    "name": "Junior Python разработчик",
+    "url": "https://hh.ru/vacancy/103215804",
+    "salary_currency": "KZT",
+    "salary_from": 230000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист",
+    "url": "https://hh.ru/vacancy/103624404",
+    "salary_currency": "RUR",
+    "salary_from": 80000,
+    "salary_to": null
+  },
+  {
+    "name": "Стажер-разработчик (в отдел разработки высоконагруженных потоковых сервисов)",
+    "url": "https://hh.ru/vacancy/103791770",
+    "salary_currency": "RUR",
+    "salary_from": 40000,
+    "salary_to": 40000
+  },
+  {
+    "name": "Strong Middle Python Developer",
+    "url": "https://hh.ru/vacancy/103673672",
+    "salary_currency": "UZS",
+    "salary_from": 10000000,
+    "salary_to": 15000000
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/103644174",
+    "salary_currency": "RUR",
+    "salary_from": null,
+    "salary_to": 290000
+  },
+  {
+    "name": "Программист Python (Junior)",
+    "url": "https://hh.ru/vacancy/102855039",
+    "salary_currency": "RUR",
+    "salary_from": 30000,
+    "salary_to": null
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/103507464",
+    "salary_currency": "RUR",
+    "salary_from": 60000,
+    "salary_to": null
+  },
+  {
+    "name": "Trainee/Intern/Junior Python backend developer",
+    "url": "https://hh.ru/vacancy/101951553",
+    "salary_currency": "RUR",
+    "salary_from": 10000,
+    "salary_to": 30000
+  },
+  {
+    "name": "Тестировщик",
+    "url": "https://hh.ru/vacancy/102605379",
+    "salary_currency": "RUR",
+    "salary_from": 50000,
+    "salary_to": 80000
+  },
+  {
+    "name": "Python Backend Developer",
+    "url": "https://hh.ru/vacancy/103040866",
+    "salary_currency": "RUR",
+    "salary_from": 75000,
+    "salary_to": null
+  },
+  {
+    "name": "Product Analyst",
+    "url": "https://hh.ru/vacancy/102773242",
+    "salary_currency": "USD",
+    "salary_from": 4000,
+    "salary_to": 5000
+  },
+  {
+    "name": "ML Engineer (Computer Vision)",
+    "url": "https://hh.ru/vacancy/103601569",
+    "salary_currency": "RUR",
+    "salary_from": 150000,
+    "salary_to": 220000
+  },
+  {
+    "name": "Junior Data Scientist",
+    "url": "https://hh.ru/vacancy/98460540",
+    "salary_currency": "RUR",
+    "salary_from": null,
+    "salary_to": 80000
+  },
+  {
+    "name": "Junior Backend Developer (Python и SQL)",
+    "url": "https://hh.ru/vacancy/102478946",
+    "salary_currency": "RUR",
+    "salary_from": 70000,
+    "salary_to": 90000
+  },
+  {
+    "name": "Python Backend разработчик",
+    "url": "https://hh.ru/vacancy/103597119",
+    "salary_currency": "RUR",
+    "salary_from": 80000,
+    "salary_to": 130000
+  },
+  {
+    "name": "Python Developer в команду разработки протокола хранения данных (Казань)",
+    "url": "https://hh.ru/vacancy/103591965",
+    "salary_currency": "RUR",
+    "salary_from": 60000,
+    "salary_to": 145000
+  },
+  {
+    "name": "Разработчик в отдел нейросетей (ML-engineer)",
+    "url": "https://hh.ru/vacancy/103064392",
+    "salary_currency": "RUR",
+    "salary_from": 70000,
+    "salary_to": null
+  },
+  {
+    "name": "Embedded разработчик",
+    "url": "https://hh.ru/vacancy/103450647",
+    "salary_currency": "RUR",
+    "salary_from": 400000,
+    "salary_to": 650000
+  },
+  {
+    "name": "Стажер DevOps специалист",
+    "url": "https://hh.ru/vacancy/103794569",
+    "salary_currency": "RUR",
+    "salary_from": 50000,
+    "salary_to": 50000
+  },
+  {
+    "name": "Аналитик данных SQL",
+    "url": "https://hh.ru/vacancy/103610654",
+    "salary_currency": "EUR",
+    "salary_from": 700,
+    "salary_to": 1700
+  },
+  {
+    "name": "Разработчик Backend Python Developer Middle",
+    "url": "https://hh.ru/vacancy/102296649",
+    "salary_currency": "RUR",
+    "salary_from": 180000,
+    "salary_to": null
+  },
+  {
+    "name": "Стажер IT (Нагрузочное тестирование)",
+    "url": "https://hh.ru/vacancy/103645013",
+    "salary_currency": "RUR",
+    "salary_from": 40000,
+    "salary_to": 45000
+  },
+  {
+    "name": "Frontend Javascript разработчик",
+    "url": "https://hh.ru/vacancy/103156274",
+    "salary_currency": "RUR",
+    "salary_from": 120000,
+    "salary_to": 180000
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://hh.ru/vacancy/102306085",
+    "salary_currency": "RUR",
+    "salary_from": 30000,
+    "salary_to": 40000
+  },
+  {
+    "name": "Тестировщик",
+    "url": "https://hh.ru/vacancy/103663868",
+    "salary_currency": "RUR",
+    "salary_from": null,
+    "salary_to": 250000
+  },
+  {
+    "name": "Системный администратор",
+    "url": "https://hh.ru/vacancy/103433910",
+    "salary_currency": "USD",
+    "salary_from": null,
+    "salary_to": 800
+  },
+  {
+    "name": "TeamLead/TechLead",
+    "url": "https://hh.ru/vacancy/103681272",
+    "salary_currency": "RUR",
+    "salary_from": 450000,
+    "salary_to": null
+  },
+  {
+    "name": "Frontend Developer",
+    "url": "https://hh.ru/vacancy/102971023",
+    "salary_currency": "USD",
+    "salary_from": 3000,
+    "salary_to": 5000
+  },
+  {
+    "name": "Инженер технической поддержки (бэк-офисные системы)",
+    "url": "https://hh.ru/vacancy/103115060",
+    "salary_currency": "RUR",
+    "salary_from": null,
+    "salary_to": 150000
+  },
+  {
+    "name": "Python developer",
+    "url": "https://hh.ru/vacancy/102818868",
+    "salary_currency": "RUR",
+    "salary_from": 60000,
+    "salary_to": 130000
+  },
+  {
+    "name": "РАЗРАБОТЧИК (уровень MIDDLE)",
+    "url": "https://hh.ru/vacancy/103765338",
+    "salary_currency": "RUR",
+    "salary_from": 130000,
+    "salary_to": null
+  },
+  {
+    "name": "Программист-разработчик",
+    "url": "https://hh.ru/vacancy/103760746",
+    "salary_currency": "RUR",
+    "salary_from": 80000,
+    "salary_to": 100000
+  },
+  {
+    "name": "Тестировщик",
+    "url": "https://hh.ru/vacancy/103273351",
+    "salary_currency": "RUR",
+    "salary_from": 75000,
+    "salary_to": 95000
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://hh.ru/vacancy/103721272",
+    "salary_currency": "RUR",
+    "salary_from": 140000,
+    "salary_to": null
+  },
+  {
+    "name": "Python Developer (Middle+)",
+    "url": "https://hh.ru/vacancy/102911946",
+    "salary_currency": "RUR",
+    "salary_from": 240000,
+    "salary_to": null
+  },
+  {
+    "name": "Системный администратор",
+    "url": "https://hh.ru/vacancy/103767877",
+    "salary_currency": "RUR",
+    "salary_from": 140000,
+    "salary_to": 140000
+  },
+  {
+    "name": "Бизнес-аналитик",
+    "url": "https://hh.ru/vacancy/103599134",
+    "salary_currency": "RUR",
+    "salary_from": 75000,
+    "salary_to": 125000
+  },
+  {
+    "name": "Разработчик / Младший разработчик C++",
+    "url": "https://hh.ru/vacancy/98475937",
+    "salary_currency": "RUR",
+    "salary_from": 90000,
+    "salary_to": null
+  },
+  {
+    "name": "Руководитель разработки / СТО",
+    "url": "https://hh.ru/vacancy/103124234",
+    "salary_currency": "USD",
+    "salary_from": null,
+    "salary_to": 15000
+  },
+  {
+    "name": "Deputy CTO/Chief technical officer",
+    "url": "https://hh.ru/vacancy/103537332",
+    "salary_currency": "RUR",
+    "salary_from": 400000,
+    "salary_to": null
+  },
+  {
+    "name": "Middle backend разработчик, python (Django, GraphQL)",
+    "url": "https://hh.ru/vacancy/103799015",
+    "salary_currency": "RUR",
+    "salary_from": 35000,
+    "salary_to": 70000
+  },
+  {
+    "name": "Специалист (Моделирование)",
+    "url": "https://hh.ru/vacancy/103687995",
+    "salary_currency": "RUR",
+    "salary_from": 130515,
+    "salary_to": null
+  },
+  {
+    "name": "Младший системный аналитик",
+    "url": "https://hh.ru/vacancy/103313710",
+    "salary_currency": "RUR",
+    "salary_from": 60000,
+    "salary_to": 140000
+  },
+  {
+    "name": "Python разработчик (Django)",
+    "url": "https://hh.ru/vacancy/103123216",
+    "salary_currency": "RUR",
+    "salary_from": 73500,
+    "salary_to": null
+  },
+  {
+    "name": "Junior ML Engineer (Computer Vision)",
+    "url": "https://hh.ru/vacancy/103603927",
+    "salary_currency": "RUR",
+    "salary_from": 60000,
+    "salary_to": 100000
+  },
+  {
+    "name": "Эксперт по автоматизации работы с браузером (Python/Selenium/Puppeteer)",
+    "url": "https://hh.ru/vacancy/103121365",
+    "salary_currency": "USD",
+    "salary_from": 2000,
+    "salary_to": 2500
+  },
+  {
+    "name": "Тестировщик (QA)",
+    "url": "https://hh.ru/vacancy/102374860",
+    "salary_currency": "RUR",
+    "salary_from": 90000,
+    "salary_to": 110000
+  },
+  {
+    "name": "Frontend Developer (Vue) (Middle+)",
+    "url": "https://hh.ru/vacancy/103719247",
+    "salary_currency": "RUR",
+    "salary_from": null,
+    "salary_to": 300000
+  },
+  {
+    "name": "Python developer",
+    "url": "https://hh.ru/vacancy/103763845",
+    "salary_currency": "RUR",
+    "salary_from": null,
+    "salary_to": 340000
+  },
+  {
+    "name": "Стажер компьютерный криминалист",
+    "url": "https://hh.ru/vacancy/102044712",
+    "salary_currency": "RUR",
+    "salary_from": null,
+    "salary_to": 39000
+  },
+  {
+    "name": "Разработчик Python / Django",
+    "url": "https://hh.ru/vacancy/103193990",
+    "salary_currency": "RUR",
+    "salary_from": 100000,
+    "salary_to": 250000
+  },
+  {
+    "name": "Продуктовый аналитик - стажёр",
+    "url": "https://hh.ru/vacancy/103800962",
+    "salary_currency": "RUR",
+    "salary_from": 55000,
+    "salary_to": 55000
+  },
+  {
+    "name": "Разработчик срм системы и ботов в телеграм",
+    "url": "https://hh.ru/vacancy/103652779",
+    "salary_currency": "KZT",
+    "salary_from": 250000,
+    "salary_to": 350000
+  },
+  {
+    "name": "Веб-программист",
+    "url": "https://hh.ru/vacancy/103391842",
+    "salary_currency": "RUR",
+    "salary_from": 48000,
+    "salary_to": 140000
+  },
+  {
+    "name": "Инженер-программист",
+    "url": "https://hh.ru/vacancy/102492111",
+    "salary_currency": "KZT",
+    "salary_from": 150000,
+    "salary_to": 400000
+  },
+  {
+    "name": "Системный администратор / Руководитель (СTO)",
+    "url": "https://hh.ru/vacancy/102020251",
+    "salary_currency": "BYR",
+    "salary_from": 8000,
+    "salary_to": null
+  },
+  {
+    "name": "Специалист по обработке данных (здравоохранение)",
+    "url": "https://hh.ru/vacancy/94924401",
+    "salary_currency": "RUR",
+    "salary_from": null,
+    "salary_to": 75000
+  },
+  {
+    "name": "Стажер бизнес-аналитик",
+    "url": "https://hh.ru/vacancy/102927838",
+    "salary_currency": "RUR",
+    "salary_from": 80000,
+    "salary_to": 80000
+  },
+  {
+    "name": "Бизнес-аналитик",
+    "url": "https://hh.ru/vacancy/99223702",
+    "salary_currency": "RUR",
+    "salary_from": 100000,
+    "salary_to": 120000
+  },
+  {
+    "name": "Reinforcement Learning Engineer",
+    "url": "https://hh.ru/vacancy/102074287",
+    "salary_currency": "RUR",
+    "salary_from": 300000,
+    "salary_to": 500000
+  },
+  {
+    "name": "Программист (PHP/JS/Python)",
+    "url": "https://hh.ru/vacancy/102942138",
+    "salary_currency": "RUR",
+    "salary_from": 30000,
+    "salary_to": 70000
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/80736556",
+    "salary_currency": "RUR",
+    "salary_from": 30000,
+    "salary_to": 80000
+  },
+  {
+    "name": "Python - разработчик (async)",
+    "url": "https://hh.ru/vacancy/102621966",
+    "salary_currency": "RUR",
+    "salary_from": null,
+    "salary_to": 260000
+  },
+  {
+    "name": "Phyton-разработчик",
+    "url": "https://hh.ru/vacancy/102170981",
+    "salary_currency": "RUR",
+    "salary_from": 280000,
+    "salary_to": null
+  },
+  {
+    "name": "QA-инженер",
+    "url": "https://hh.ru/vacancy/102168779",
+    "salary_currency": "RUR",
+    "salary_from": 50000,
+    "salary_to": 90000
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/103355558",
+    "salary_currency": "RUR",
+    "salary_from": null,
+    "salary_to": 270000
+  },
+  {
+    "name": "Стажёр в отдел разработки",
+    "url": "https://hh.ru/vacancy/103108063",
+    "salary_currency": "RUR",
+    "salary_from": null,
+    "salary_to": 45000
+  },
+  {
+    "name": "Data analyst/Аналитик данных (стажер)",
+    "url": "https://hh.ru/vacancy/103794325",
+    "salary_currency": "RUR",
+    "salary_from": 100000,
+    "salary_to": 110000
+  },
+  {
+    "name": "Midle / Senior Python developer",
+    "url": "https://hh.ru/vacancy/103673470",
+    "salary_currency": "USD",
+    "salary_from": 2000,
+    "salary_to": 4000
+  },
+  {
+    "name": "Системный администратор",
+    "url": "https://hh.ru/vacancy/103585529",
+    "salary_currency": "RUR",
+    "salary_from": 200000,
+    "salary_to": 200000
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/103061156",
+    "salary_currency": "RUR",
+    "salary_from": 80000,
+    "salary_to": 115000
+  },
+  {
+    "name": "Ведущий бэкенд-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/103735670",
+    "salary_currency": "RUR",
+    "salary_from": 300000,
+    "salary_to": 350000
+  },
+  {
+    "name": "Frontend-разработчик",
+    "url": "https://hh.ru/vacancy/102989954",
+    "salary_currency": "RUR",
+    "salary_from": 50000,
+    "salary_to": 70000
+  },
+  {
+    "name": "Python разработчик (AI/ML)",
+    "url": "https://hh.ru/vacancy/103575499",
+    "salary_currency": "RUR",
+    "salary_from": 40000,
+    "salary_to": 55000
+  },
+  {
+    "name": "Junior/Junior+ С#/Unigine – разработчик",
+    "url": "https://hh.ru/vacancy/103658711",
+    "salary_currency": "RUR",
+    "salary_from": 70000,
+    "salary_to": 140000
+  }
+]
